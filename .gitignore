@@ -121,3 +121,7 @@ openapi/*
 
 # direnv.net
 .direnv
+
+/.idea/
+/plugins/discourse-math/public/1.0.1/katex
+/plugins/discourse-math/public/1.0.1/mathjax
